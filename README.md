@@ -1,2 +1,2 @@
 # im4
-Wordlist archive
+Wordlist archives
